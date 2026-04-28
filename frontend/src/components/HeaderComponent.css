@@ -1,0 +1,27 @@
+﻿.navbar-custom {
+    padding: 0 1.5rem;
+    min-height: 72px;
+    background: linear-gradient(90deg, #3f51b5, #5c6ac4);
+}
+
+.navbar-brand {
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: #ffffff !important;
+}
+
+.navbar-brand:hover {
+    color: #e8eaf6 !important;
+    text-decoration: none;
+}
+
+.footer {
+    position: relative;
+    width: 100%;
+    padding: 1rem 0;
+    background: #101820;
+    text-align: center;
+    color: #cfd8dc;
+    font-size: 0.95rem;
+}
