@@ -1,8 +1,4 @@
-# Full Stack App: Projeto React Hooks + Spring Boot CRUD
-
-## CRUD REST API's Spring boot, Spring Data JPA e H2 database
-
-## CRUD React App utilizando alguns dos principais React Hooks
+# Full Stack App: Projeto React Hooks + Spring Boot 
 
 ## useState
 
