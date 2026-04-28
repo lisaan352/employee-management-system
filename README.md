@@ -1,4 +1,4 @@
-# Full Stack App: Projeto React Hooks + Spring Boot 
+# Full Stack App: Projet React Hooks + Spring Boot 
 
 ## useState
 
@@ -8,12 +8,10 @@
 
 ## useHistory
 
-# Ferramentas e Tecnologias utilizadas: 
-
 ## Server side:
 
  - Intellij IDEA
- - Java 11+
+ - Java 26
  - Spring Boot 2.6+
  - Spring Data JPA (Hibernate)
  - H2 Database
