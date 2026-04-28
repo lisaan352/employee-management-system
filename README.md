@@ -1,4 +1,4 @@
-# Full Stack App: Projet React Hooks + Spring Boot 
+# Full Stack App: Project React Hooks + Spring Boot 
 
 ## useState
 
